@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+env/
+
+# Environment variables (contains sensitive info)
+.env
+
+# Firebase credentials (NEVER upload this!)
+firebase-credentials.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Sync folder (user data)
+sync_folder/
+
+# IDE
+.vscode/
+.idea/
